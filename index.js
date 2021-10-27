@@ -1,4 +1,5 @@
-console.log("hello world");
+console.log("Made by Evan Chisholm :)");
+
 let numberOfRows = 0;
 let numberOfCols = 0;
 let scale = 5;
